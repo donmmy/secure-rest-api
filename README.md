@@ -34,7 +34,8 @@ API REST segura y escalable para gestión de usuarios y compañías con autentic
 
 ### 1. Clonar o descargar el proyecto
 ```bash
-cd PracticaIntermedia
+git clone https://github.com/donmmy/secure-rest-api.git
+cd secure-rest-api
 ```
 
 ### 2. Instalar dependencias

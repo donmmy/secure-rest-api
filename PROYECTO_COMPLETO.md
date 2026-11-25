@@ -329,7 +329,8 @@ Documentation: 7 files
 
 ### 1. Instalación
 ```bash
-cd PracticaIntermedia
+git clone https://github.com/donmmy/secure-rest-api.git
+cd secure-rest-api
 npm install
 ```
 
